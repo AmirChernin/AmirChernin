@@ -1,5 +1,3 @@
-
-
 # 👋 Hello, I'm Amir Chernin!
 
 ![GitHub Profile Banner](https://github.com/AmirChernin/AmirChernin/blob/main/banner.jpg)
