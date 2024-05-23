@@ -32,8 +32,8 @@ I currently serve in the army, providing cutting-edge electronic solutions to va
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Xilinx](https://img.shields.io/badge/Xilinx-FCC624?style=for-the-badge&logo=xilinx&logoColor=white)
 
-
-### 📊 GitHub Stats
+<!--
+-- ### 📊 GitHub Stats
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirChernin&show_icons=true&theme=radical)
 
 ### 📈 Top Languages
