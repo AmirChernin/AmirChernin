@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amir Chernin!
 
-![GitHub Profile Banner](banner.png)
+![GitHub Profile Banner](banner.PNG)
 
 ## 👨‍💻 About Me
 
