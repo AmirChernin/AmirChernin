@@ -8,6 +8,7 @@ I currently serve in the army, providing cutting-edge electronic solutions to va
 
 ### 🎓 Education
 - **Electronics Engineering Degree**: Currently pursuing
+- **Practical Engineer Diploma**: Achieved with excellence
 - **Physics and Computer Science**: High school education
 
 ### 🛠 Skills
